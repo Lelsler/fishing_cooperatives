@@ -10,7 +10,10 @@ BUT more collective action ≠ higher prices
 The repository is organized using the following structure:
 
     code - A folder containing the code used to analyze the processed data and prepare tables/figures
+    data - A folder containing the processed catch and landings data, and an inflation corrector
     figures - A folder containing figures generated for the project
+
+Partial restrictions apply to the following data. CEPII (bilateral trade) data was purchased for this publication and cannot be shared. To purchase the data contact CEPII at contact@cepii.fr. The Mexican Fisheries Cooperatives database (or Diagnostico data) are proprietary of the project partners. If you are interested in working with the data contact 'mateja dot nenadovic at duke.edu'.
 
 This research was supported by the SESYNC under funding received from the National Science Foundation (DBI-1639145). It further received funding from the European Research Council (MUSES-682472). The National Science Foundation also granted support through the MAREA group (NSF-1613526 and NSF-2009821). The Walton Family Foundation, The David & Lucile Packard Foundation, the Marisla Foundation, the Sandler Foundation, and the Illuminating Hidden Harvests project funded Comunidad y Biodiversidad A.C., Confederación Mexicana de Cooperativas Pesqueras y Acui ́colas, Sociedad de Historia Natural Niparajá A C, and Duke University to collect and curate data for the Diagnóstico Nacional de las Organizaciones Pesqueras, Mexico 2017.
 
